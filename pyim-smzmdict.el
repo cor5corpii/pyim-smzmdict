@@ -3,7 +3,7 @@
 ;; Author: Yue Shi (Zhizhi), Zheng Yili
 ;; Maintainer: Yuanchen Xie <xieych@outlook.com>
 ;; Version: 0.1.1
-;; Package-Requires: pyim
+;; Package-Requires: ((pyim "5.3.4"))
 ;; Homepage: https://github.com/cor5corpii/pyim-smzmdict
 ;; Keywords: convenience, pyim, Chinese, zhengma
 
